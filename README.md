@@ -12,3 +12,10 @@
 ⇨ Como essas entidades estão relacionadas?
 
 >Cardinalidades(1:N, N:1 ou 0:1)
+
+<br>
+
+## Screenshots 📸
+
+![App Screenshot](./modelo_conceitual.png)
+![App Screenshot](./modelo_logico.png)
